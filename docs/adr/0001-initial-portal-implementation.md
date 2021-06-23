@@ -36,16 +36,19 @@ Chosen option: **Migrate (re-build) the MVP to our new chosen framework, and bui
 
 ### Positive Consequences
 
-* Gives us a baseline for establishing test coverage and best practices before making significant changes to the application.
+* Gives us a clean slate for the technical architecture that will support the portal website, as well as the new portal itself, allowing for a high degree of creative freedom.
+* Gives us a baseline for establishing test coverage and best practices before making significant user-facing changes to the application.
 * Allows us to test and validate decisions that are not user-facing (such as our tech stack, CI/CD pipeline, and application architecture) independently of and prior to making changes that are.
 * Allows us to subsequently begin collecting analytics data around the existing MVP in order to establish a baseline.
 * Using application code to control rollout of new features gives us high flexibility and the ability to easily roll back to the MVP if needed.
 * Containing both the existing MVP and the new portal in a single application reduces infrastructure complexity and risk in managing which users are directed to which version.
 * We are able to easily make changes to the MVP during development of the new portal if needed.
+* We are able to control the traffic flow to the new portal, allowing us to start with granting access to a small number of users for testing, and eventually directing everyone there at the time of launch.
 
 ### Negative Consequences
 
 * We spend some overhead time and effort re-implementing a website we know will be undergoing significant changes over the course of this project.
+* We will need to establish clear boundaries (i.e., with namespacing) within application code between the MVP and the new portal code to minimize the risk of bugs.
 
 ## Pros and Cons of the Options
 
@@ -55,9 +58,11 @@ Chosen option: **Migrate (re-build) the MVP to our new chosen framework, and bui
 * Good, because we don't have to spend any time re-implementing the existing MVP code.
 * Bad, because we anticipate wanting to make significant changes to the tech stack of the portal to support more complex functionality.
 * Bad, because users may not notice or pay attention to many small changes made over a long period of time.
+* Bad, because we will still have to determine a way to test changes before rolling out to everyone.
 
 ### Build the new portal in a completely separate application from the MVP
 
 * Good, because we don't have to spend any time re-implementing the existing MVP code.
 * Good, because we can start building the new portal from a clean slate.
-* Bad, because we will have to manage two live applications in order to test changes without replacing the MVP entirely.
+* Good, because we don't have to manage both legacy code and new code within a single code base.
+* Bad, because we will have to manage two live applications on separate infrastructure in order to test changes without replacing the MVP entirely.
