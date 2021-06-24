@@ -1,8 +1,8 @@
 # Use NextJS for the USSF portal client application
 
-* Status: proposed
+* Status: Proposed
 * Deciders: @suzubara @abbyoung @esacteksab @noahfirth
-* Date: 2021-06-22
+* Date: 2021-06-24
 
 *To avoid bikeshedding, this ADR uses the [lightweight ADR template](https://adr.github.io/#lightweight-architectural-decision-records-should-be-adopted) and exists primarily for recording the decision, rather than weighing pros & cons of all considered options.*
 
