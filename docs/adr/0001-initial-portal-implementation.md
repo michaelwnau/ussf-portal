@@ -1,8 +1,8 @@
 # Migrate the Space Force MVP and build alongside it in a single application
 
-* Status: proposed
+* Status: Accepted
 * Deciders: @suzubara @abbyoung @esacteksab @noahfirth
-* Date: 2021-06-22
+* Date: 2021-06-24
 
 ## Context and Problem Statement
 
