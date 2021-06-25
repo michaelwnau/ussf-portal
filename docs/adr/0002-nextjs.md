@@ -1,8 +1,8 @@
 # Use NextJS with dynamic content powered by a headless CMS for the new USSF portal
 
-- Status: Proposed
+- Status: Accepted
 - Deciders: @suzubara @abbyoung @esacteksab @noahfirth
-- Date: 2021-06-24
+- Date: 2021-06-25
 
 ## Context and Problem Statement
 
