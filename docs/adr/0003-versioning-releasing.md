@@ -1,8 +1,8 @@
-# Use [git-flow/GitHub flow] for releasing the application code
+# Use GitHub flow for releasing the application code
 
-- Status: proposed
+- Status: accepted
 - Deciders: @suzubara @abbyoung @esacteksab @noahfirth
-- Date: 2021-07-16
+- Date: 2021-07-21
 
 ## Context and Problem Statement
 
@@ -20,17 +20,15 @@ We should agree on a workflow for developing, testing, and releasing code in ord
 
 ## Decision Outcome
 
-TBD - decision has not been made yet, currently waiting on team input.
+Use the model known as [GitHub flow](https://guides.github.com/introduction/flow/). After some discussion, we have decided on this option for the following reasons:
 
-### Positive Consequences <!-- optional -->
+- We have a preference towards continuous deployment, and would like to choose the workflow that best encourages automation, high test coverage, and smaller, more frequent releases.
+- Because our team size is small, and because our `main` branch settings require branches be up-to-date before merging, the risk of merging multiple conflicting changes simultaneously is very low (if not zero).
+- Also because our team size is small, the overhead of managing two long-lived branches is more of a burden than if we had more resources.
+- Neither flow precludes assigning version numbers to each release, which can be useful for tracking changes and debugging production when needed.
+- If desired at some point in the future, it is easier to transition from the simpler GitHub workflow to the more complex git-flow than the other way around.
 
-- [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
-- …
-
-### Negative Consequences <!-- optional -->
-
-- [e.g., compromising quality attribute, follow-up decisions required, …]
-- …
+See below for full details & pros and cons of each.
 
 ## Pros and Cons of the Options <!-- optional -->
 
