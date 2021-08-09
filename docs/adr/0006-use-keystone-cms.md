@@ -1,8 +1,8 @@
 # Use KeystoneJS as a CMS, starting with embedded mode
 
-- Status: proposed
+- Status: Accepted
 - Deciders: @suzubara @abbyoung @esacteksab @noahfirth
-- Date: 2021-08-05
+- Date: 2021-08-09
 
 ## Context and Problem Statement
 
