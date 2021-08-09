@@ -1,12 +1,21 @@
 # Use a NoSQL Database for Next.js App
 
-- Status: Draft
+- Status: Approved
 - Deciders: @suzubara @abbyoung @esacteksab @noahfirth
 - Date: 2021-08-04
 
 ## Context and Problem Statement
 
 We need to choose an appropriate database to use with the Next.js app for storing non-sensitive user data. This data will most likely be self-contained to each user, representing their app settings, bookmarks, and other session and user-specific features. No PII or PHI will be stored.
+
+Two assumptions we've made when considering this decision:
+
+* Each data set with be contained to a single user and will never need to cross-reference/query another.
+  * This assumption negates the need for any relational data.
+* Each data set will only ever be modified by one user 
+  * This assumption mitigates any concern about having to resolve multiple transactions simultaneously.
+
+If either of these assumptions change or are proven wrong, we'll revisit this decision.
 
 ## Decision Drivers
 
@@ -43,9 +52,9 @@ The specific database has not been decided yet, and it will depend largely on wh
 ### Negative Consequences
 
 - Requires additional infrastructure and development work if the need for relational database arises.
-- An Amazon-only databases may be required, which could add complexity if the project ever needs to migrate off AWS
+- An Amazon-only databases may be required, which could add complexity if the project ever needs to migrate off AWS.
+  - Exception: Amazon's DocumentDB is compatible with MongoDB drivers and tools, which would simplify migration.
 - Lacks ACID properites, but this is less important with the type of data we're storing.
-- Not yet supported by Prisma, the ORM we're using in the tech stack. The [database connector is currently in Preview](https://v1.prisma.io/docs/1.34/releases-and-maintenance/features-in-preview/mongodb-b6o5/). This is not a dealbreaker.
 
 ## Pros and Cons of Other Options
 
@@ -53,8 +62,7 @@ The specific database has not been decided yet, and it will depend largely on wh
 
 - Good, because Postgres (the standard for both this project and Truss) is cloud-agnostic
 - Good, because it provides indexing
-- Good, because it works with Prisma, the ORM we're using in the tech stack.
-- Bad, because requires additional data modeling to "fit" into a relational model that we don't necessarily need
+- Bad, because requires additional data modeling to "fit" into a relational model that we don't need and would result in overly complex queries
 - Bad, because adds complexity to the development process: more overhead in setting up and managing models
 
 ### Use a relational database, leveraging JSONB datatypes to store dynamic JSON
@@ -78,7 +86,6 @@ As opposed to storing JSON in Postgres, storing JSONB:
   - Updating any field in the JSONB results in an entire row-level lock and rewrite of of the entire JSONB object
   - The [recommendation](https://www.postgresql.org/docs/current/datatype-json.html#JSON-CONTAINMENT) is to have each JSON document represent "an atomic datum...that can be modified independently."
   - Another common pattern is to initially store data as JSONB, and pull out frequently used keys into their own table
-- Bad, because Prisma [does not support](https://www.prisma.io/docs/concepts/components/prisma-client/working-with-fields/working-with-json-fields#json-faqs) the full feature set of JSONB in Postgres,including selecting specific JSON elements to return and filtering on a specific key.
 - Bad, because storage size of JSONB is greater than the equivalent amount of data in a database such as MongoDB
 
 Further data modeling and research would need to be done to see if our use case is a good fit for this approach. It's possible to reconsider this option if the need arises.
