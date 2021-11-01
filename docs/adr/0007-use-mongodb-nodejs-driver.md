@@ -1,6 +1,6 @@
 # Use MongoDB + DocumentDB with Node.js Driver
 
-- Status: Pending
+- Status: Draft
 - Deciders: @suzubara @abbyoung @esacteksab @noahfirth
 - Date: 2021-11-01
 
@@ -59,7 +59,7 @@ As for ease of use, the MongoDB Node.js SDK is well-documented, compatible with 
 
 ### Negative Consequences
 
-- Potential for steeper learning curve ( although this is based on highly subjective opinions)
+- Potential for steeper learning curve (although this is based on highly subjective opinions)
 - Less common to use MongoDB without Mongoose, meaning many dev resources may not be applicable to our project
 
 ## Pros and Cons of Other Options
