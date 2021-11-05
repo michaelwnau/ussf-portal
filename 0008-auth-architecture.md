@@ -12,10 +12,6 @@ The current USSF portal website uses a headless authentication method wherein no
 
 Because the decision of how to implement SAML is also somewhat tied to how we manage sessions, this ADR describes both pieces of our authentication architecture in tandem.
 
-- SAML Service Provider library (passport-saml, next-auth)
-- Session management (??, next-auth)
-- Redis stores session data
-
 ## Decision Drivers
 
 - We are required to use SAML for authentication due to external circumstances, and to leverage existing authentication providers and user directories.
@@ -65,7 +61,7 @@ Finally, nothing prohibits us from migrating to token-based auth in the future i
 
 - https://redis.com/solutions/use-cases/session-management/
 - [Session Management in Nodejs Using Redis as Session Store](https://medium.com/swlh/session-management-in-nodejs-using-redis-as-session-store-64186112aa9)
-- https://dev.to/zachgoll/the-ultimate-guide-to-passport-js-k2l/#jwt-based-authentication-implementation
+- [The Ultimate Guide to Passport JS](https://dev.to/zachgoll/the-ultimate-guide-to-passport-js-k2l)
 
 ## Decision Outcome
 
