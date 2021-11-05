@@ -1,6 +1,6 @@
 # Use MongoDB + DocumentDB with Node.js Driver
 
-- Status: Draft
+- Status: Approved
 - Deciders: @suzubara @abbyoung @esacteksab @noahfirth
 - Date: 2021-11-01
 
@@ -18,14 +18,14 @@ This ADR covers the type of NoSQL database and associated tooling to connect the
 
 ## Considered Options
 
-- Use MongoDB for local development and DocumentDB deployed in AWS. 
+- Use MongoDB for local development and DocumentDB deployed in AWS.
 
 To communicate with the application, use:
-  - MongoDB Node.js driver
-  - Mongoose 
-  - TypeORM 
-  - Prisma
 
+- MongoDB Node.js driver
+- Mongoose
+- TypeORM
+- Prisma
 
 ## Decision Outcome
 
@@ -39,7 +39,7 @@ DocumentDB is Amazon's cloud-based document database that is compatible with Mon
 
 This article ["Do you need Mongoose when developing Node.js and MongoDB applications?"](https://www.mongodb.com/developer/article/mongoose-versus-nodejs-driver/) provides a thorough look at the trade-offs between using Mongoose and the native features available via the MongoDB Node.js driver.
 
->The problem that Mongoose aims to solve is allowing developers to enforce a specific schema at the application layer. In addition to enforcing a schema, Mongoose also offers a variety of hooks, model validation, and other features aimed at making it easier to work with MongoDB.
+> The problem that Mongoose aims to solve is allowing developers to enforce a specific schema at the application layer. In addition to enforcing a schema, Mongoose also offers a variety of hooks, model validation, and other features aimed at making it easier to work with MongoDB.
 
 At one point in time, Mongoose was the all-in-one package for solving these issues. Now, many of these benefits are covered elsewhere in the stack.
 
@@ -48,7 +48,6 @@ We use GraphQL to define schemas and validate our data. If we added Mongoose, we
 At the database layer, MongoDB now natively supports [Schema Validation](https://docs.mongodb.com/manual/core/schema-validation/).
 
 As for ease of use, the MongoDB Node.js SDK is well-documented, compatible with TypeScript, and pleasant to work with.
-
 
 ### Positive Consequences
 
@@ -64,7 +63,6 @@ As for ease of use, the MongoDB Node.js SDK is well-documented, compatible with 
 
 ## Pros and Cons of Other Options
 
-
 ### Use Mongoose
 
 - Good, because Mongoose is well-established and has extensive documentation and community sypport.
@@ -76,8 +74,7 @@ As for ease of use, the MongoDB Node.js SDK is well-documented, compatible with 
 - Bad, because the [feature set is limited](https://typeorm.io/#/mongodb). TypeORM functionality is focused on relational databases.
 - Bad, because the documentation is sparse for MongoDB-specific support.
 
-
-### Use Prisma 
+### Use Prisma
 
 - Good, because we're using Prisma elsewhere in the application and we wouldn't have to learn a new tool
 - Bad, because Prisma support for MongoDB is still in beta and has a very limited feature set.
