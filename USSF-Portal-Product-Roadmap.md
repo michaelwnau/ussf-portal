@@ -14,7 +14,7 @@ ____________________________________________________
 ### Prototype Testing
 | Task  | Description | Status |
 | ------ | ------ | :------: |
-| Design edits to the graphic elements and theme | Update the theme and graphic elements to finalize the look and feel of the site that will launch | :rocket: IN PROGRESS |
+| Design edits to the graphic elements and theme | Update the theme and graphic elements to finalize the look and feel of the portal site that will launch | :rocket: IN PROGRESS |
 | Finalizing the CMS | Building the last of the infrastructure and application needed to have an integrated content management system for the BETA launch | :rocket: IN PROGRESS |
 | Finalizing authentication | Building the authentication workflow for users to ensure the portal recognizes who a person is when they are coming to the portal | :rocket: IN PROGRESS |
 
