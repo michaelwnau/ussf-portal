@@ -81,4 +81,4 @@ ____________________________________________________
 
 | Task  | Description | Status |
 | ------ | ------ | :------: |
-| :construction: ToDo | :construction: ToDo | :construction: ToDo |
+| :construction: | :construction: | :construction: |
