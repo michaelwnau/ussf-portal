@@ -1,11 +1,13 @@
-### Here, you'll find our product roadmap -- an up-to-date report on the work we're doing. 
+# Here, you'll find our product roadmap -- an up-to-date report on the work we're doing
 
-Below is our product roadmap: a long-term plan of the goals, features, and direction of the USSF Portal. We update this frequently with the status of our progress, as well as add new high-level feature requests and ideas. 
-
+Below is our product roadmap: a long-term plan of the goals, features, and direction of the USSF Portal. We update this frequently with the status of our progress, as well as add new high-level feature requests and ideas.
 
 ## November & Pre-Launch December
+
 ____________________________________________________
+
 ### Prototype Testing
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 | Design edits to the graphic elements and theme | Update the theme and graphic elements to finalize the look and feel of the portal site that will launch | :rocket: IN PROGRESS |
@@ -13,23 +15,28 @@ ____________________________________________________
 | Finalizing authentication | Building the authentication workflow for users to ensure the portal recognizes who a person is when they are coming to the portal | :rocket: IN PROGRESS |
 
 ### BETA Launch Preparation
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 | BETA branding | Update theme and branding to explicitly show users they are on a BETA version of the site | :rocket: IN PROGRESS |
 | BETA opt-in / opt-out | Create a method for users to opt-in to the BETA portal in addition to being able to exit the beta if they wish to return to the legacy portal | :rocket: IN PROGRESS |
 | Infrastructure on C1 | Build the final application infrastructure on C1 | :rocket: IN PROGRESS |
 
-
 ## Post-Launch December & January
+
 ____________________________________________________
+
 ### BETA followup items
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 | Update design of the login page | Update the login page to provide rapid access to commonly used sites and applications without requiring a user to log in | :construction: TODO |
 | Drag and drop support for URLs in a collection | Create the ability for a user to rearrange the placement of URLs within a collection to allow them to have the greatest control of their personal page | :construction: TODO |
 
 ____________________________________________________
+
 ### CMS admin and publishing workflows
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 | Create CMS users and roles | Add content author and content manager roles to the content management system | :construction: TODO |
@@ -37,8 +44,10 @@ ____________________________________________________
 | Add content categories to the CMS | Create the initial set of categories for content authors and managers to select from when creating content | :construction: TODO |
 | Add Labels to CMS | Create intiial set of lables for content authors to select and add to their content | :construction: TODO |
 
-_____________________________________________________
-### News & Announcemnts 
+____________________________________________________
+
+### News & Announcemnts
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 | Create article UI in CMS | The interface required for a content author to create content that can be published to the portal | :construction: TODO |
@@ -47,10 +56,12 @@ _____________________________________________________
 | Content expiration scheduler | Allows the author to set an expiration date for their content | :construction: TODO |
 | Build article page | The front facing look and feel of an article page on the portal | :construction: TODO |
 | Build news & announcements page | This page will be responsible for displaying all the content authored in the CMS | :construction: TODO |
-| Build news & announcements widget | This widget will sit on the users My Space with the goal of surfacing the latest or most relavent news and announcements | :construction: TODO | 
+| Build news & announcements widget | This widget will sit on the users My Space with the goal of surfacing the latest or most relavent news and announcements | :construction: TODO |
 
-______________________________________________________
+____________________________________________________
+
 ### Search
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 | Display search query interface | Add a search field to the portal | :construction: TODO |
@@ -62,9 +73,11 @@ ______________________________________________________
 | Autocomplete results while a user types a search query | Autosuggestion for users based on the characters they are entering into the search field | :construction: TODO |
 | Display commonly used searched terms under search bar | Reduce search time for users by displaying quicklinks to commonly searched terms based on analytics | :construction: TODO |
 
-
 ## February & March
+
 ____________________________________________________
+
 ### Upcoming Tasks
+
 | Task  | Description | Status |
 | ------ | ------ | :------: |
