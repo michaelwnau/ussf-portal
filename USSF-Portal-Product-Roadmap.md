@@ -65,7 +65,7 @@ ______________________________________________________
 | Display "no results" messaging | Apply messaging and treatment in the case where no search results are found | :construction: TODO |
 | Add pagination support for results | This will add pagination to a search results page should the number of results exceed the defined page limit | :construction: TODO |
 | Implement search results weighting logic | Establishes the hierarchy of the search results that are returned to the user | :construction: TODO |
-| Autocomplete results while a user types a query | Autosuggestion for users based on the characters they are entering into the search field | :construction: TODO |
+| Autocomplete results while a user types a search query | Autosuggestion for users based on the characters they are entering into the search field | :construction: TODO |
 | Display commonly used searched terms under search bar | Reduce search time for users by displaying quicklinks to commonly searched terms based on analytics | :construction: TODO |
 
 
