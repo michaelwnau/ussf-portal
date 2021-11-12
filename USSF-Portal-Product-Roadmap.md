@@ -8,6 +8,7 @@ permalink: /ussf-portal-roadmap/
 
 Below is our product roadmap: a long-term plan of the goals, features, and direction of the USSF Portal. We update this frequently with the status of our progress, as well as add new high-level feature requests and ideas. 
 
+
 ## November & Pre-Launch December
 ____________________________________________________
 ### Prototype Testing
@@ -24,6 +25,7 @@ ____________________________________________________
 | BETA opt-in / opt-out | Create a method for users to opt-in to the BETA portal in addition to being able to exit the beta if they wish to return to the legacy portal | :rocket: IN PROGRESS |
 | Infrastructure on C1 | Build the final application infrastructure on C1 | :rocket: IN PROGRESS |
 
+
 ## Post-Launch December & January
 ____________________________________________________
 ### BETA followup items
@@ -31,6 +33,7 @@ ____________________________________________________
 | ------ | ------ | :------: |
 | Update design of the login page | Update the login page to provide rapid access to commonly used sites and applications without requiring a user to log in | :construction: TODO |
 | Drag and drop support for URLs in a collection | Create the ability for a user to rearrange the placement of URLs within a collection to allow them to have the greatest control of their personal page | :construction: TODO |
+
 ____________________________________________________
 ### CMS admin and publishing workflows
 | Task  | Description | Status |
@@ -51,6 +54,7 @@ _____________________________________________________
 | Build article page | The front facing look and feel of an article page on the portal | :construction: TODO |
 | Build news & announcements page | This page will be responsible for displaying all the content authored in the CMS | :construction: TODO |
 | Build news & announcements widget | This widget will sit on the users My Space with the goal of surfacing the latest or most relavent news and announcements | :construction: TODO | 
+
 ______________________________________________________
 ### Search
 | Task  | Description | Status |
@@ -64,5 +68,9 @@ ______________________________________________________
 | Autocomplete results as a user types | Autosuggestion for users based on the characters they are entering into the search field | :construction: TODO |
 | Display commonly searched terms under search bar | Reduce search time for users by displaying quicklinks to commonly searched terms based on analytics | :construction: TODO |
 
+
 ## February & March
-  
+____________________________________________________
+### Upcoming Tasks
+| Task  | Description | Status |
+| ------ | ------ | :------: |
