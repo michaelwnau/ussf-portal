@@ -1,6 +1,6 @@
 layout: page
 title: "USSF Portal Roadmap"
-permalink: /ussf-portal-roadmap/
+permalink: /USSF-Portal-Product-Roadmap/
 
 # USSF Portal Roadmap
 
