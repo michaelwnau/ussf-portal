@@ -1,3 +1,9 @@
+layout: page
+title: "USSF Portal Roadmap"
+permalink: /USSF-Portal-Product-Roadmap/
+
+# USSF Portal Roadmap
+
 ### Here, you'll find our product roadmap -- an up-to-date report on the work we're doing. 
 
 Below is our product roadmap: a long-term plan of the goals, features, and direction of the USSF Portal. We update this frequently with the status of our progress, as well as add new high-level feature requests and ideas. 
