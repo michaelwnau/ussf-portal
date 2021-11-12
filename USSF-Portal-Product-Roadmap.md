@@ -41,15 +41,15 @@ ____________________________________________________
 | Create CMS users and roles | Add content author and content manager roles to the content management system | :construction: TODO |
 | Build a publishing workflow | Create the workflows for authoring and publishing content in the content management system | :construction: TODO |
 | Add content categories to the CMS | Create the initial set of categories for content authors and managers to select from when creating content | :construction: TODO |
-| Add Labels to CMS | Create intiial set of lables for content authors to select and add to their content | :construction: TODO |
+| Add Labels to CMS | Create intiial set of lables for content authors and content managers to select and add to their content | :construction: TODO |
 
 _____________________________________________________
 ### News & Announcemnts 
 | Task  | Description | Status |
 | ------ | ------ | :------: |
-| Create article UI in CMS | The interface required for a content author to create content that can be published to the portal | :construction: TODO |
-| Add, edit, delete articles | Provides the ability for a content author or manager to fully manage the portal content that is development or already published | :construction: TODO |
-| Content publishing scheduler | Allows the author to schedule when they would like their content to be autopublished | :construction: TODO |
+| Create article template in CMS | The interface required for an author to create content that can be published to the portal | :construction: TODO |
+| Add, edit and delete articles | Provides the ability for a content author or manager to fully manage the portal content that is staged or already published | :construction: TODO |
+| Content publishing scheduler | Allow a content author to schedule a date and time when they would like their content to be published | :construction: TODO |
 | Content expiration scheduler | Allows the author to set an expiration date for their content | :construction: TODO |
 | Build article page | The front facing look and feel of an article page on the portal | :construction: TODO |
 | Build news & announcements page | This page will be responsible for displaying all the content authored in the CMS | :construction: TODO |
