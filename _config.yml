@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+
+plugins:
+  - jemoji
+
+title: USSF portal Roadmap
+description: A quick look at the current and upcoming work to update the USSF portal
