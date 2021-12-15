@@ -1,3 +1,5 @@
+| Home | [The Team](the-team)  | [Design Elements](design-elements) | [Portal Updates](portal-updates) | [Acknowledgements](acknowledgements) | [Contact Info](contact-info) |
+
 # Welcome and overview
 
 The USSF/CTIO team has been busy in 2021! This year, we’ve conducted more than 40 one-on-one interviews with Guardians  (and have surveyed dozens more) in order to custom create a portal that best serves your needs.
@@ -17,9 +19,3 @@ The team at Truss.works strongly believes in building products based on feedback
 * Working software over comprehensive documentation
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
-
-* [The team](the-team)
-* [Design elements](design-elements)
-* [Portal dev updates](portal-updates)
-* [Acknowledgements](acknowledgements)
-* [Contact info](contact-info)
