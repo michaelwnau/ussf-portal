@@ -16,17 +16,18 @@ They define and communicate the key characteristics of the product to a wide var
 
 *The USSF/CTIO + Truss.works experience principles in relation to the Space Force service portal are listed below:*
 
-TRANSPARENCY
-We believe that this principle is fundamentally linked to fairness and trust, in whatever manner it manifests. A transparent approach is about being clear, open and honest with Guardians within the design and ensuring that communication is easily accessible and easy to understand, and that clear and plain language be used, in every aspect throughout the service portal.
+Transparency
+A transparent approach is about being clear, open, and honest with Guardians within all aspects of the design, thereby promoting fairness and building trust. In addition, this principle ensures that communication is easily accessible and easy to understand, and that clear and plain language is used across the entirety of the service portal.
 
-RELEVANCY
-Content and context will always be relevant to Guardians. We will be mindful to keep our content concise, timely and pertinent to Guardians at the time it is published. We will retire content as it gets stale.
+Relevancy
+Content and context will always be relevant to Guardians. We will be mindful to keep our content concise, timely, and pertinent to Guardians at the time it is published. We will retire content as it gets stale.
 
-COLLABORATION & FLEXIBILITY
-At all times we will strive to make Guardian’s experience on the service portal individualized to them. The experience will be flexible so that Guardians can customize the portal to their needs and interests. We will strive as much as we’re able to take a collaborative approach in building the service portal, because we know that sharing information, insights, strategies and resources across silos of units or departments, ultimately leads to increased efficiency and impact.
+Collaboration & flexibility
+At all times, we will strive to allow Guardians to customize their portal experience to reflect their individual needs, preferences, and experiences.  We will also strive, as much as we’re able, to take a collaborative approach in building the service portal because we know that sharing information, insights, strategies, and resources across silos of units or departments leads to increased efficiency and impact.
 
-LEAD THE WAY
-Guardians deserve our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
+Lead the way
+To support Guardians and their families, we’ll put forth our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
 
-FOCUS ON SIMPLICITY AND VALUE
-We value successful outcomes over fashion and design trends, and will use aesthetics to only support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex (and often easier) one.
+Simplicity and value
+We value successful outcomes over fashion and design trends, and will use aesthetics  only to support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex one.
+
