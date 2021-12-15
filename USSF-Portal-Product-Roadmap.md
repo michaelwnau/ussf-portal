@@ -21,6 +21,8 @@ ____________________________________________________
 | BETA branding | Update theme and branding to explicitly show users they are on a BETA version of the site | :white_check_mark: DONE |
 | BETA opt-in / opt-out | Create a method for users to opt-in to the BETA portal in addition to being able to exit the beta if they wish to return to the legacy portal | :white_check_mark: DONE |
 | Infrastructure on C1 | Build the final application infrastructure on C1 | :white_check_mark: DONE |
+| Custom 500 page | Build a better looking page to handle 500 errors | :construction: IN PROGRESS |
+| Custom 404 page | Build a better looking page to handle 404 errors | :construction: IN PROGRESS |
 
 ## Post-Launch December & January
 
