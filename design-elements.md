@@ -1,3 +1,5 @@
+| [Home] (/) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | Design Elements | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) | [Contact Info](https://ussf-orbit.github.io/ussf-portal/contact-info) |
+
 # Design elements
 
 The new Space Force portal was created with users in mind — the team that built the Portal interviewed dozens of Guardians to understand their preferences and needs regarding content and layout. Just as talking to actual users helps teams create better products and services, so does maintaining consistency within a given product or service. Consistent design patterns help users more quickly learn how to interact with a digital product and also help build (and maintain) users’ trust. One time-tested way to achieve this consistency is by using a design system. A design system is a toolkit of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites. 
@@ -24,5 +26,7 @@ COLLABORATION & FLEXIBILITY
 At all times we will strive to make Guardian’s experience on the service portal individualized to them. The experience will be flexible so that Guardians can customize the portal to their needs and interests. We will strive as much as we’re able to take a collaborative approach in building the service portal, because we know that sharing information, insights, strategies and resources across silos of units or departments, ultimately leads to increased efficiency and impact.
 
 LEAD THE WAY
+Guardians deserve our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
 
 FOCUS ON SIMPLICITY AND VALUE
+We value successful outcomes over fashion and design trends, and will use aesthetics to only support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex (and often easier) one.

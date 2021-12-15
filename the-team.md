@@ -1,3 +1,5 @@
+| [Home] (/) | The Team  | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) | [Contact Info](https://ussf-orbit.github.io/ussf-portal/contact-info) |
+
 # The Team
 ---
 #### Orbit
