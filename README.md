@@ -1,8 +1,19 @@
-## About
-Central hub for USSF Portal
+# Welcome and overview
 
-## USSF Portal Roadmap
-* [Roadmap](https://ussf-orbit.github.io/ussf-portal/USSF-Portal-Product-Roadmap)
+The USSF/CTIO team has been busy in 2021! This year, we’ve conducted more than 40 one-on-one interviews with Guardians  (and have surveyed dozens more) in order to custom create a portal that best serves your needs.
 
-## Repos
-* [Portal Prototype](https://github.com/USSF-ORBIT/ussf-portal-prototype)
+We’re excited for you to explore the portal’s new offerings, and encourage you to check out the beta, start to customize your experience, and share your feedback about what could be better. This is your SF service portal, by you and for you, and we’re looking forward to working hand in hand with you to keep improving it in the months to come. If you’re interested in seeing what work is planned for the coming months, check out our portal roadmap.
+
+If you’re interested in adding content to the portal on behalf of your team, stay tuned; in late January, we’ll be releasing a formalized process for submitting information to be published on the portal. We’re currently working to develop the approval and publication processes, and we appreciate your patience as we set up a content-management system that will support the long-term needs of Guardians.  
+
+#### Our philosophy and process
+
+The new Space Force service portal was created hand-in-hand with the people who will engage with the service portal itself: Space Force personnel. The Truss.works contracting team that designed and engineered this platform conducted research with more than  100 Guardians, spending hundreds of hours learning about what Guardians need (and don’t need) in a portal. This early and continual focus on Guardians helped the team understand Space Force personnel’s preferences on topics such as connecting easily to frequently used websites or applications, news & events, frequently accessed forms, and staying up to date on military requirements, to name a few.
+
+The team at Truss.works strongly believes in building products based on feedback from the people who will actually be interacting with them, and using a process that allows the team to deliver a prototype and make improvements with small, frequent delivery cycles. Our agile delivery method helps the team effectively prioritize features and which problems to tackle (and in what order). If we find ourselves suddenly moving in an unhelpful direction, agile also allows us to make quick course corrections based on direct Guardian feedback. Our team has found that putting Space Force personnel at the center of our decision making helps build not only a better product, but also helps build trust in government services.
+
+* [The team](the-team)
+* [Design elements](design-elements)
+* [Portal dev updates](portal-updates)
+* [Acknowledgements](acknowledgements)
+* [Contact info](contact-info)
