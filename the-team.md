@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ###### Noah
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&nbsp;&nbsp;&nbsp;&nbsp;Noah has been working in the weird world of government technology for 13 years where he’s done everything from Red Teaming to infrastructure buildouts to system transitions and modernizations. He came work with the Space Force in 2019 as the service stood up in order to help solve some of the tough technical issues they are facing as a new branch of the military and it’s been a wild ride. Noah is passionate about making sure humans aren’t forgotten when organizations want new processes, policies or products.
 
 #### Truss
 ---
