@@ -14,7 +14,7 @@ The new Space Force service portal was created hand-in-hand with the people who 
 
 The team at Truss.works strongly believes in building products based on feedback from the people who will actually be interacting with them, and using a process that allows the team to deliver a prototype and make improvements with small, frequent delivery cycles. Our agile delivery method helps the team effectively prioritize features and which problems to tackle (and in what order). If we find ourselves suddenly moving in an unhelpful direction, agile also allows us to make quick course corrections based on direct Guardian feedback. Our team has found that putting Space Force personnel at the center of our decision making helps build not only a better product, but also helps build trust in government services.
 
-*As a team we have come to value…*
+**As a team we have come to value…**
 * Individuals and interactions over processes and tools
 * Working software over comprehensive documentation
 * Customer collaboration over contract negotiation
