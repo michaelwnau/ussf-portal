@@ -1,4 +1,4 @@
-| [Home] (https://ussf-orbit.github.io/ussf-portal) | The Team  | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
+| [Home](https://ussf-orbit.github.io/ussf-portal) | The Team  | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
 
 # The Team
 ---
