@@ -1,4 +1,4 @@
-| [Home] (https://ussf-orbit.github.io/ussf-portal) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | Portal Updates | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) | [Contact Info](https://ussf-orbit.github.io/ussf-portal/contact-info) |
+| [Home] (https://ussf-orbit.github.io/ussf-portal) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | Portal Updates | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
 
 # Portal Updates
 ---
@@ -11,7 +11,7 @@
 * An archive of our previous [development updates](development-updates).
 
 #### Repos
-* [Portal Prototype](https://github.com/USSF-ORBIT/ussf-portal-prototype)
+* [USSF Portal](https://github.com/USSF-ORBIT/ussf-portal-client)
 
 #### Roadmap
 * Our USSF product [roadmap](USSF-Portal-Product-Roadmap).
