@@ -1,3 +1,5 @@
+| [Home] (/) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | Design Elements | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) | [Contact Info](https://ussf-orbit.github.io/ussf-portal/contact-info) |
+
 # Design elements
 
 The new Space Force portal was created with users in mind — the team that built the Portal interviewed dozens of Guardians to understand their preferences and needs regarding content and layout. Just as talking to actual users helps teams create better products and services, so does maintaining consistency within a given product or service. Consistent design patterns help users more quickly learn how to interact with a digital product and also help build (and maintain) users’ trust. One time-tested way to achieve this consistency is by using a design system. A design system is a toolkit of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites. 
