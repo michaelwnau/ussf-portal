@@ -1,4 +1,4 @@
-| Home | [The Team](the-team)  | [Design Elements](design-elements) | [Portal Updates](portal-updates) | [Acknowledgements](acknowledgements) | [Contact Info](contact-info) |
+| Home | [The Team](the-team)  | [Design Elements](design-elements) | [Portal Updates](portal-updates) | [Acknowledgements](acknowledgements) |
 
 # Welcome and overview
 
