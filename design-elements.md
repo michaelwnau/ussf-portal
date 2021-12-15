@@ -24,5 +24,7 @@ COLLABORATION & FLEXIBILITY
 At all times we will strive to make Guardian’s experience on the service portal individualized to them. The experience will be flexible so that Guardians can customize the portal to their needs and interests. We will strive as much as we’re able to take a collaborative approach in building the service portal, because we know that sharing information, insights, strategies and resources across silos of units or departments, ultimately leads to increased efficiency and impact.
 
 LEAD THE WAY
+Guardians deserve our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
 
 FOCUS ON SIMPLICITY AND VALUE
+We value successful outcomes over fashion and design trends, and will use aesthetics to only support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex (and often easier) one.
