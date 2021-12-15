@@ -8,7 +8,7 @@ A government design system helps users know what to expect when they visit feder
 
 A comprehensive design system allows a team to spend less time building from scratch and more time focused on solving strategic problems. Our SFDS will speed up the development processes and help teams across Space Force concentrate on higher-level goals and outcomes. Relatedly, design systems help your product or service benefit from continuous improvement. Each improvement to the design system improves all design system sites because each of those sites is created using the same code and components.
 
-Examples of Design Systems: [USWDS](https://designsystem.digital.gov/), [VA.gov](https://design.va.gov/), [USA JOBS]()
+Examples of Design Systems: [USWDS](https://designsystem.digital.gov/), [VA.gov](https://design.va.gov/), [USA JOBS](https://usajobs.github.io/design-system/)
 
 #### Design experience principles
 
@@ -16,17 +16,23 @@ They define and communicate the key characteristics of the product to a wide var
 
 **The USSF/CTIO + Truss.works experience principles in relation to the Space Force service portal are listed below:**
 
-TRANSPARENCY
-We believe that this principle is fundamentally linked to fairness and trust, in whatever manner it manifests. A transparent approach is about being clear, open and honest with Guardians within the design and ensuring that communication is easily accessible and easy to understand, and that clear and plain language be used, in every aspect throughout the service portal.
+Transparency
 
-RELEVANCY
-Content and context will always be relevant to Guardians. We will be mindful to keep our content concise, timely and pertinent to Guardians at the time it is published. We will retire content as it gets stale.
+A transparent approach is about being clear, open, and honest with Guardians within all aspects of the design, thereby promoting fairness and building trust. In addition, this principle ensures that communication is easily accessible and easy to understand, and that clear and plain language is used across the entirety of the service portal.
 
-COLLABORATION & FLEXIBILITY
-At all times we will strive to make Guardian’s experience on the service portal individualized to them. The experience will be flexible so that Guardians can customize the portal to their needs and interests. We will strive as much as we’re able to take a collaborative approach in building the service portal, because we know that sharing information, insights, strategies and resources across silos of units or departments, ultimately leads to increased efficiency and impact.
+Relevancy
 
-LEAD THE WAY
-Guardians deserve our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
+Content and context will always be relevant to Guardians. We will be mindful to keep our content concise, timely, and pertinent to Guardians at the time it is published. We will retire content as it gets stale.
 
-FOCUS ON SIMPLICITY AND VALUE
-We value successful outcomes over fashion and design trends, and will use aesthetics to only support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex (and often easier) one.
+Collaboration & flexibility
+
+At all times, we will strive to allow Guardians to customize their portal experience to reflect their individual needs, preferences, and experiences.  We will also strive, as much as we’re able, to take a collaborative approach in building the service portal because we know that sharing information, insights, strategies, and resources across silos of units or departments leads to increased efficiency and impact.
+
+Lead the way
+
+To support Guardians and their families, we’ll put forth our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
+
+Simplicity and value
+
+We value successful outcomes over fashion and design trends, and will use aesthetics  only to support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex one.
+
