@@ -32,9 +32,9 @@ ____________________________________________________
 
 | Task  | Description | Status |
 | ------ | ------ | :------: |
+
 | Update design of the login page | Update the login page to provide rapid access to commonly used sites and applications without requiring a user to log in | :construction: TODO |
 | Drag and drop support for URLs in a collection | Create the ability for a user to rearrange the placement of URLs within a collection to allow them to have the greatest control of their personal page | :construction: TODO |
-
 ____________________________________________________
 
 ### CMS admin and publishing workflows
