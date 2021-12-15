@@ -1,4 +1,4 @@
-| [Home] (/) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | Design Elements | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) | [Contact Info](https://ussf-orbit.github.io/ussf-portal/contact-info) |
+| [Home](https://ussf-orbit.github.io/ussf-portal) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | Design Elements | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
 
 # Design elements
 
@@ -14,7 +14,7 @@ Examples of Design Systems: [USWDS](https://designsystem.digital.gov/), [VA.gov]
 
 They define and communicate the key characteristics of the product to a wide variety of stakeholders including clients, colleagues, and team members. Design principles articulate the fundamental goals that all decisions can be measured against and thereby keep the pieces of a project moving toward an integrated whole. They provide a consistent vision of the project for the project team.
 
-*The USSF/CTIO + Truss.works experience principles in relation to the Space Force service portal are listed below:*
+**The USSF/CTIO + Truss.works experience principles in relation to the Space Force service portal are listed below:**
 
 TRANSPARENCY
 We believe that this principle is fundamentally linked to fairness and trust, in whatever manner it manifests. A transparent approach is about being clear, open and honest with Guardians within the design and ensuring that communication is easily accessible and easy to understand, and that clear and plain language be used, in every aspect throughout the service portal.

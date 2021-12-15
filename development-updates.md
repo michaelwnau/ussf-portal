@@ -2,6 +2,40 @@
 
 # Space Force Development Updates
 ---
+## Week of 12/13
+**What we’ve been working on:**
+Research and design wrapped up round 7 of user research. The team ran another Insights & Actions exercise that generated some fantastic conversation. Here are some of the top highlights:
+* Overall, usability was very positive:
+     * Deleting a link and adding a collection from the Site and Apllications page was easy to use
+     * Entering the beta release from the existing portal was easily found and executed
+     * Deleting a collection from My Space was easily found and executed
+* We found a few areas where usability could be improved:
+     * Editing the title of a collection card caused some confusion for Guardians
+     * The ability to save a custom link was not as easily discoverable as we’d hoped
+     * Saving a link in a collection was confusing to some Guardians
+* Saving valuable or easily accessing frequently used documentation or forms appears to be a need. We will conduct more research and do some ideation around potential solutions.
+* Guardians still desire more visual design 
+     * (This is coming shortly. We’re strategically separating functionality from visual design for the time being so that aesthetics don’t interfere with actions.)
+The research and design team provided the final typography and branding elements.
+
+The team also provided final designs for the news & announcements pages which are scheduled to be live around the start of the new year.  
+
+The engineering team completed all of their database setup and configuration as well as authentication updates. This work allows the service member to perform two things:
+* Login using their CAC in which we request for more information about the user during authentication in order to provide a more personalized experience. 
+* Save and persist any customizations a service member performed on the portal (i.e. add and edit custom collections and bookmarks) 
+The engineering team also continued making optimizations to their deployment pipeline.  
+
+**What’s next:**
+The research and design team will continue mapping out the portal design experience principles. 
+
+They will also run a few design studio sessions around feedback they received during round 7 of research for a couple of key features that raised some interaction concerns.  
+
+The engineering team will work on adding some monitoring to the app to help with troubleshooting.
+
+They will also continue to make any final cosmetic tweaks in preparation for the beta launch on Dec. 20th.  
+
+The entire team will be focusing their efforts on testing and ensuring the beta launch is a success. They also will launch a microsite containing information about the purpose of the beta, our design and development processes as well as our product roadmap. 
+
 ### Week of 9/27
 **What we’ve been working on:**
 
