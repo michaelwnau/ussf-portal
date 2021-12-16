@@ -33,14 +33,19 @@ ____________________________________________________
 | Task  | Description | Status |
 | ------ | ------ | :------: |
 
-| Update design of the login page | Update the login page to provide rapid access to commonly used sites and applications without requiring a user to log in | :construction: TODO |
-| Drag and drop support for URLs in a collection | Create the ability for a user to rearrange the placement of URLs within a collection to allow them to have the greatest control of their personal page | :construction: TODO |
+| Standup analytics | Add analytics tracking code to portal pages | :construction: TODO |
+| Max limits on # collections and URLs | Set max limit for the number of collections one can add to their My Space and number of links within a collection | :construction: TODO |
+| Set focus on add url input field | Focus cursor on input fields when adding a URL to a collection | :construction: TODO |
+| Investigate passport/session login and server side auth | Use the requireAuth function to load a user's session on the server | :construction: TODO |
+| BUG: Unable to delete multiple URLs from a collection at a single time | Fix to allow users to delete 1+ URLs at a time. | :construction: TODO |
+
 ____________________________________________________
 
 ### CMS admin and publishing workflows
 
 | Task  | Description | Status |
 | ------ | ------ | :------: |
+
 | Create CMS users and roles | Add content author and content manager roles to the content management system | :construction: TODO |
 | Build a publishing workflow | Create the workflows for authoring and publishing content in the content management system | :construction: TODO |
 | Add content categories to the CMS | Create the initial set of categories for content authors and managers to select from when creating content | :construction: TODO |
@@ -60,6 +65,15 @@ ____________________________________________________
 | Build news & announcements page | This page will be responsible for displaying all the content authored in the CMS | :construction: TODO |
 | Build news & announcements widget | This widget will sit on the users My Space with the goal of surfacing the latest or most relavent news and announcements | :construction: TODO |
 
+### Upcoming Tasks
+| Task  | Description | Status |
+| ------ | ------ | :------: |
+
+| Update design of the login page | Update the login page to provide rapid access to commonly used sites and applications without requiring a user to log in | :construction: TODO |
+| Drag and drop support for URLs in a collection | Create the ability for a user to rearrange the placement of URLs within a collection to allow them to have the greatest control of their personal page | :construction: TODO |
+
+## February & March
+
 ____________________________________________________
 
 ### Search
@@ -74,9 +88,6 @@ ____________________________________________________
 | Implement search results weighting logic | Establishes the hierarchy of the search results that are returned to the user | :construction: TODO |
 | Autocomplete results while a user types a search query | Autosuggestion for users based on the characters they are entering into the search field | :construction: TODO |
 | Display commonly used searched terms under search bar | Reduce search time for users by displaying quicklinks to commonly searched terms based on analytics | :construction: TODO |
-
-## February & March
-
 ____________________________________________________
 
 ### Upcoming Tasks
