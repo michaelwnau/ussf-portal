@@ -2,7 +2,7 @@
 
 # Acknowledgements
 
-The team working on this portal cares about making the lives of service members easier by building the best portal experience possible. We’ve only gotten to this point by having direct access to Guardian experiences and feedback — your voice matters in what we build and how we build it. No matter if you’re already fully transitioned into Space Force from the AirForce, if you're currently transitioning from another branch of the military, if you’re a government contractor, or a civilian working for Space Force, [we want to hear from you!](mailto:feedback@ussforbit.us?subject=USSF%20portal%20feedback)
+The team working on this portal cares about making the lives of service members easier by building the best portal experience possible. We’ve only gotten to this point by having direct access to Guardian experiences and feedback — your voice matters in what we build and how we build it. No matter if you’re already fully transitioned into Space Force from the AirForce, if you're currently transitioning from another branch of the military, if you’re a government contractor, or a civilian working for Space Force, [we want to hear from you!](mailto:portalresearch@truss.works?subject=USSF%20portal%20feedback)
 
 **Our team would like to acknowledge all of the Guardians and other service members who contributed to the creation of this portal.**
 
