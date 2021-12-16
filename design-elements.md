@@ -1,8 +1,8 @@
-| [Home](https://ussf-orbit.github.io/ussf-portal) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team)  | Design Elements | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
+| [Home](https://ussf-orbit.github.io/ussf-portal) | [The Team](https://ussf-orbit.github.io/ussf-portal/the-team) | Design Elements | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
 
 # Design elements
 
-The new Space Force portal was created with users in mind — the team that built the Portal interviewed dozens of Guardians to understand their preferences and needs regarding content and layout. Just as talking to actual users helps teams create better products and services, so does maintaining consistency within a given product or service. Consistent design patterns help users more quickly learn how to interact with a digital product and also help build (and maintain) users’ trust. One time-tested way to achieve this consistency is by using a design system. A design system is a toolkit of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites. 
+The new Space Force portal was created with users in mind — the team that built the Portal interviewed dozens of Guardians to understand their preferences and needs regarding content and layout. Just as talking to actual users helps teams create better products and services, so does maintaining consistency within a given product or service. Consistent design patterns help users more quickly learn how to interact with a digital product and also help build (and maintain) users’ trust. One time-tested way to achieve this consistency is by using a design system. A design system is a toolkit of principles, guidance, and code that makes it easier to build accessible, mobile-friendly government websites.
 
 A government design system helps users know what to expect when they visit federal websites; likewise, the Space Force design system gives users a sense of what to expect when they visit the Space Force portal. All design systems allow you to provide consistent usability, accessibility, editorial style, and look-and-feel across your websites and digital services. This consistency delivers a more seamless, user-friendly experience (a key requirement of 21st Century Integrated Digital Experience Act (21st Century IDEA) [digital.gov]) and also increases trust in government.
 
@@ -26,13 +26,12 @@ Content and context will always be relevant to Guardians. We will be mindful to 
 
 Collaboration & flexibility
 
-At all times, we will strive to allow Guardians to customize their portal experience to reflect their individual needs, preferences, and experiences.  We will also strive, as much as we’re able, to take a collaborative approach in building the service portal because we know that sharing information, insights, strategies, and resources across silos of units or departments leads to increased efficiency and impact.
+At all times, we will strive to allow Guardians to customize their portal experience to reflect their individual needs, preferences, and experiences. We will also strive, as much as we’re able, to take a collaborative approach in building the service portal because we know that sharing information, insights, strategies, and resources across silos of units or departments leads to increased efficiency and impact.
 
 Lead the way
 
-To support Guardians and their families, we’ll put forth our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal. 
+To support Guardians and their families, we’ll put forth our best effort to create, develop, and iterate on the sites and services they rely upon every day. We strive every day to improve how we are building out services for Space Force personnel and will model new thinking and approaches to building software that are reflective of the standards within the Guardian Ideal.
 
 Simplicity and value
 
-We value successful outcomes over fashion and design trends, and will use aesthetics  only to support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex one.
-
+We value successful outcomes over fashion and design trends, and will use aesthetics only to support proven usability and to enhance functionality. We strive to consider the user's goal at all times and to provide the simplest solution to achieve that goal, not the more complex one.
