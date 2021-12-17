@@ -14,7 +14,7 @@ Examples of Design Systems: [USWDS](https://designsystem.digital.gov/), [VA.gov]
 
 They define and communicate the key characteristics of the product to a wide variety of stakeholders including clients, colleagues, and team members. Design principles articulate the fundamental goals that all decisions can be measured against and thereby keep the pieces of a project moving toward an integrated whole. They provide a consistent vision of the project for the project team.
 
-**The USSF/CTIO + Truss.works experience principles in relation to the Space Force service portal are listed below:**
+**The USSF/CTIO + TrussWorks experience principles in relation to the Space Force service portal are listed below:**
 
 Transparency
 

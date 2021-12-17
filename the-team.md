@@ -1,15 +1,21 @@
-| [Home](https://ussf-orbit.github.io/ussf-portal) | The Team  | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
+| [Home](https://ussf-orbit.github.io/ussf-portal) | The Team | [Design Elements](https://ussf-orbit.github.io/ussf-portal/design-elements) | [Portal Updates](https://ussf-orbit.github.io/ussf-portal/portal-updates) | [Acknowledgements](https://ussf-orbit.github.io/ussf-portal/acknowledgements) |
 
 # The Team
+
 ---
+
 #### Orbit
+
 ---
+
 ###### Noah
 
-&nbsp;&nbsp;&nbsp;&nbsp;Noah has been working in the weird world of government technology for 13 years where he’s done everything from Red Teaming to infrastructure buildouts to system transitions and modernizations. He came work with the Space Force in 2019 as the service stood up in order to help solve some of the tough technical issues they are facing as a new branch of the military and it’s been a wild ride. Noah is passionate about making sure humans aren’t forgotten when organizations want new processes, policies or products.
+&nbsp;&nbsp;&nbsp;&nbsp;Noah has been working in the weird world of government technology for 13 years where he’s done everything from Red Teaming to infrastructure buildouts to system transitions and modernizations. He came to work with the Space Force in 2019 as the service stood up in order to help solve some of the tough technical issues they are facing as a new branch of the military and it’s been a wild ride. Noah is passionate about making sure humans aren’t forgotten when organizations want new processes, policies or products.
 
 #### Truss
+
 ---
+
 ###### Abigail
 
 &nbsp;&nbsp;&nbsp;&nbsp;Abigail is a San Francisco-based software engineer with a background in tech startups, ecommerce, advertising, and publishing. Before joining Truss, she was lead engineer for the web A/B testing team at Sephora. In addition to contributing to the technical success of the team, she helped build a safe, supportive culture focused on empathy, honesty, and teamwork.
@@ -20,8 +26,7 @@
 
 ###### John
 
-&nbsp;&nbsp;&nbsp;&nbsp;John launched his career in product management 
-during the first dot-com boom, and has weathered the ups and downs of the tech industry working for both startups and public corporations in the digital media, entertainment, and consumer editorial spaces. As an experienced product manager overseeing many projects and leading the product roadmap and vision, he enjoys fostering seamless communication between design, development, and executive teams in an effort to create the most exceptional digital products and services. When he isn't working, you'll find John record shopping with his wife and daughter and "attempting" to make wine.
+&nbsp;&nbsp;&nbsp;&nbsp;John launched his career in product management during the first dot-com boom, and has weathered the ups and downs of the tech industry working for both startups and public corporations in the digital media, entertainment, and consumer editorial spaces. As an experienced product manager overseeing many projects and leading the product roadmap and vision, he enjoys fostering seamless communication between design, development, and executive teams in an effort to create the most exceptional digital products and services. When he isn't working, you'll find John record shopping with his wife and daughter and "attempting" to make wine.
 
 ###### Mallory
 
