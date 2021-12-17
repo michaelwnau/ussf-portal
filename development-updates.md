@@ -1,42 +1,48 @@
-<--[Back](https://ussf-orbit.github.io/ussf-portal/portal-updates)
+<-- [Back](https://ussf-orbit.github.io/ussf-portal/portal-updates)
 
 # Space Force Development Updates
+
 ---
+
 ## Week of 12/13
+
 **What we’ve been working on:**
 Research and design wrapped up round 7 of user research. The team ran another Insights & Actions exercise that generated some fantastic conversation. Here are some of the top highlights:
-* Overall, usability was very positive:
-     * Deleting a link and adding a collection from the Site and Apllications page was easy to use
-     * Entering the beta release from the existing portal was easily found and executed
-     * Deleting a collection from My Space was easily found and executed
-* We found a few areas where usability could be improved:
-     * Editing the title of a collection card caused some confusion for Guardians
-     * The ability to save a custom link was not as easily discoverable as we’d hoped
-     * Saving a link in a collection was confusing to some Guardians
-* Saving valuable or easily accessing frequently used documentation or forms appears to be a need. We will conduct more research and do some ideation around potential solutions.
-* Guardians still desire more visual design 
-     * (This is coming shortly. We’re strategically separating functionality from visual design for the time being so that aesthetics don’t interfere with actions.)
-The research and design team provided the final typography and branding elements.
 
-The team also provided final designs for the news & announcements pages which are scheduled to be live around the start of the new year.  
+- Overall, usability was very positive:
+  - Deleting a link and adding a collection from the Site and Apllications page was easy to use
+  - Entering the beta release from the existing portal was easily found and executed
+  - Deleting a collection from My Space was easily found and executed
+- We found a few areas where usability could be improved:
+  - Editing the title of a collection card caused some confusion for Guardians
+  - The ability to save a custom link was not as easily discoverable as we’d hoped
+  - Saving a link in a collection was confusing to some Guardians
+- Saving valuable or easily accessing frequently used documentation or forms appears to be a need. We will conduct more research and do some ideation around potential solutions.
+- Guardians still desire more visual design
+  - (This is coming shortly. We’re strategically separating functionality from visual design for the time being so that aesthetics don’t interfere with actions.)
+- The research and design team provided the final typography and branding elements.
+
+The team also provided final designs for the news & announcements pages which are scheduled to be live around the start of the new year.
 
 The engineering team completed all of their database setup and configuration as well as authentication updates. This work allows the service member to perform two things:
-* Login using their CAC in which we request for more information about the user during authentication in order to provide a more personalized experience. 
-* Save and persist any customizations a service member performed on the portal (i.e. add and edit custom collections and bookmarks) 
-The engineering team also continued making optimizations to their deployment pipeline.  
+
+- Login using their CAC in which we request for more information about the user during authentication in order to provide a more personalized experience.
+- Save and persist any customizations a service member performed on the portal (i.e. add and edit custom collections and bookmarks)
+  The engineering team also continued making optimizations to their deployment pipeline.
 
 **What’s next:**
-The research and design team will continue mapping out the portal design experience principles. 
+The research and design team will continue mapping out the portal design experience principles.
 
-They will also run a few design studio sessions around feedback they received during round 7 of research for a couple of key features that raised some interaction concerns.  
+They will also run a few design studio sessions around feedback they received during round 7 of research for a couple of key features that raised some interaction concerns.
 
 The engineering team will work on adding some monitoring to the app to help with troubleshooting.
 
-They will also continue to make any final cosmetic tweaks in preparation for the beta launch on Dec. 20th.  
+They will also continue to make any final cosmetic tweaks in preparation for the beta launch on Dec. 20th.
 
-The entire team will be focusing their efforts on testing and ensuring the beta launch is a success. They also will launch a microsite containing information about the purpose of the beta, our design and development processes as well as our product roadmap. 
+The entire team will be focusing their efforts on testing and ensuring the beta launch is a success. They also will launch a microsite containing information about the purpose of the beta, our design and development processes as well as our product roadmap.
 
 ### Week of 9/27
+
 **What we’ve been working on:**
 
 The team rallied around getting a last minute deployment to production late night on a Friday to update the portal with announcements for the new Guardian Enlisted Rank insignia and the Guardian Ideal. This was a huge effort by the team who worked through and around a number of limitations and some general confusion to make sure the current site was updated and available. Huge kudos to the team for this effort and proving once more they are the best at what they do!
@@ -64,6 +70,7 @@ The engineering team will continue to wrap up the work around the Sites & Applic
 The engineering team will also work on the final pieces of the Sites & Applications outcome, which include searching for links, editing collection titles, and setting up the ability to display modals for displaying additional content.
 
 ### Week of 9/13
+
 **What we’ve been working on:**
 
 Research and design have kicked off round 5 of user research with eight participants lined up. For this round, the goal is to dive deeper into the design concepts and usability around adding, deleting, and managing links in what we’re calling collections.
@@ -85,6 +92,7 @@ The engineering team will continue constructing the sites and applications pages
 The engineering team will also continue working on the specifics of login and authentication to help with the future customization efforts desired as part of the portal functionality.
 
 ### Week of 8/23
+
 **What we’ve been working on:**
 
 Research and design have been experimenting with color palettes that would be appropriate to apply to the UI design. The designers ran a few design studio sessions with the team and, based on the outcomes, have started adding the ideas around collection creation and onboarding to the current design concepts.
@@ -110,6 +118,7 @@ The engineering team will continue working towards completing the beta segmentat
 The engineering team will begin work on setting up the content management system, Keystone JS, which includes defining the data schema and models and displaying sample content on a page.
 
 ### Week of 8/9
+
 **What we’ve been working on:**
 
 Research and design have wrapped up their fourth round of user interviews. The goals for this round were to further clarify the mental models and expectations that Guardians have around News and Announcements. In addition, we sought to understand if our design concepts for customized link saving satisfy the explicit and implicit needs we’ve heard from service members in previous rounds of research.
@@ -133,6 +142,7 @@ After wrapping up the decisions on which CMS and database we’ll be using, the 
 Next, the engineering team will begin designing and building an architecture to provide experimentation and user segmentation to support controlled testing and the rollout of new features.
 
 ### Week of 7/26
+
 **What we’ve been working on:**
 
 Research and design have been working on refining the design concepts in preparation for another round of user testing. We've narrowed in on a single layout from having tested three different concepts in our last round of research. By starting broadly with three very different layouts and asking for user feedback, it’s given our team more confidence in the overall design direction and kept us from spinning on subjective internal points of view.
@@ -154,6 +164,7 @@ The engineering team will help map out development timelines for the set of user
 The team will also be working on setting up the framework for implementing feature flags and controlling experiments in production.
 
 ### Week of 7/12
+
 **What we’ve been working on:**
 
 We completed our third round of user research which consisted of concept testing three different initial designs and unmoderated/moderated card sorts. The goals this round were to validate our information hierarchy and initial service portal features.
@@ -171,6 +182,7 @@ Our team will run another round of Insights and Actions to sync on the latest us
 The team will also run through an experience-based road mapping session to scope out our long-term experience into what we want our users to be able to do and when.
 
 ### Week of 6/28
+
 **What we’ve been working on:**
 
 We completed our second round of research conducting a total of 7 one-on-one 60-minute interviews. We modified our interview script for this round to include observing the service member performing a particular task (one common and one uncommon) via screen sharing. The data gathered helped solidify a few patterns we recognized from our first round of user interviews and helped us focus on what appeared to be the common pain points for service members.
@@ -199,6 +211,7 @@ Pen has met paper on the design front and we are barreling towards having a stat
 The engineering team will start rebuilding the existing portal using the new infrastructure. This approach will give us a starting point for the code that matches the current UX, provide a benchmark for tests to ensure no degradation that isn’t intentional, and resume updates to the existing portal without having to juggle two codebases/environments.
 
 ### Week of 6/14
+
 **What we've been working on:**
 
 We’ve been working on refining the problem statements and started mapping out common tasks and experiences with an eye towards designing the new portal. Next week we will begin to prioritize the problems we’re seeing as we fold in our second round of research, which will close on Monday.
@@ -222,6 +235,7 @@ Over the next week, we’ll be transitioning into the framing phase of this proj
 We’ll also begin generating solution ideas, as well as continue to set up tools and supporting infrastructure to help ensure a smooth transition once we’re ready to start deploying the new portal to users.
 
 ### Week of 5/24
+
 **What we've been working on:**
 
 We completed our first round of research, conducting a total of 8 one-on-one 60 min individual interviews. Among those who volunteered were service members from various roles and ranks across the Space Force, including members of leadership, long-term service members with many years of experience, as well as those who are brand new to the Space Force. Our research helped us understand the differences and similarities these users have in their needs, goals, behaviors, and pain points around their day-to-day work and interactions with current service portals. The synthesis of our research and subsequent team alignment exercises uncovered over 20 different problem statements by the team. Here are four highlights we wanted to share with you:
@@ -245,6 +259,7 @@ The full team will work together on Scenario Writing and Journey Mapping activit
 We will also be setting up a microsite for publishing these updates and other artifacts related to the service portal progress.
 
 ### Week of 5/10
+
 **What we've been working on:**
 
 The Truss/USSF portal team has kicked off the project with a research phase called Discovery & Framing. The team is currently in week 4 of this 3 month effort, our strategy focusing on conducting user interviews, a technical exploration of current systems, and other deep learning activities. Once we feel we’ve gained enough knowledge of current user needs, the priorities associated with those needs and the Space Force’s technical capabilities and limitations, we will move into generating solutions and testing those ideas with actual users. This will ensure that we’re validating our product decisions, and focusing effort on the things Space Professionals will find most compelling and useful.
