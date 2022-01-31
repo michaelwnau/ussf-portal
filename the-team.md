@@ -4,13 +4,17 @@
 
 ---
 
-#### Orbit
+#### ORBIT
 
 ---
 
 ###### Noah
 
 &nbsp;&nbsp;&nbsp;&nbsp;Noah has been working in the weird world of government technology for 13 years where he’s done everything from Red Teaming to infrastructure buildouts to system transitions and modernizations. He came to work with the Space Force in 2019 as the service stood up in order to help solve some of the tough technical issues they are facing as a new branch of the military and it’s been a wild ride. Noah is passionate about making sure humans aren’t forgotten when organizations want new processes, policies or products.
+
+###### Kat
+
+&nbsp;&nbsp;&nbsp;&nbsp;Kat is a design operations aficionado who arrived at USSF from the United States Digital Service and decided to stay for a while, mostly because of Noah. Kat believes in well executed service design, always taking a human centered approach, working with great people and defining hard problems before you try to solve them. 
 
 #### Truss
 
@@ -27,6 +31,16 @@
 ###### John
 
 &nbsp;&nbsp;&nbsp;&nbsp;John launched his career in product management during the first dot-com boom, and has weathered the ups and downs of the tech industry working for both startups and public corporations in the digital media, entertainment, and consumer editorial spaces. As an experienced product manager overseeing many projects and leading the product roadmap and vision, he enjoys fostering seamless communication between design, development, and executive teams in an effort to create the most exceptional digital products and services. When he isn't working, you'll find John record shopping with his wife and daughter and "attempting" to make wine.
+
+###### Kate
+
+&nbsp;&nbsp;&nbsp;&nbsp;Kate is a UX designer and content strategist based in Portland, OR. Before becoming a Trussel, she created online coursework for an art school, led writer-focused editorial and education initiatives at a startup, and was the first content strategist at 18F, where she helped build out the content team, founded the Writing Lab, and worked with many excellent government partner organizations. Kate’s work is driven by user need and the beauty of precise, lyrical language (before entering the UX world, Kate earned her MFA in fiction writing). Her goal on each project is to wholly engage the user to effect positive change.
+
+
+
+###### Liz
+
+&nbsp;&nbsp;&nbsp;&nbsp;Liz is a user experience designer with over 18 years of experience providing service for enterprise, government, and startups. She is passionate about both civic service and technology for the greater good. She had had opportunities to work with various county, state, and federal agencies and departments where she served and delivered, made friends, and earned some awards.
 
 ###### Mallory
 
