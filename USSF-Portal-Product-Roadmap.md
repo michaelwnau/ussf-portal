@@ -67,11 +67,10 @@ ____________________________________________________
 | Auth and user roles | Use existing login methods and create the necessary CMS roles | :construction: IN PROGRESS |
 
 ### Analytics
-| ------ | ------ | :------: |
-| Deploy analytics platform to production | The remaining piece of getting the analytics platform on to the production environment so we can begin collecting data | | :construction: IN PROGRESS |
-
-
 | Task  | Description | Status |
+| ------ | ------ | :------: |
+| Deploy analytics platform to production | The remaining piece of getting the analytics platform on to the production environment so we can begin collecting data | :construction: IN PROGRESS |
+
 
 
 ## April & May
