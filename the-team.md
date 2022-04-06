@@ -46,6 +46,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Suzanne has been coding as a software engineer professionally for over ten years, during which she’s worked in marketing & advertising, financial tech, and freelance consulting. Currently she is a senior engineer at Truss, where she is heavily involved with establishing and advocating for strong front end standards, fostering a collaborative culture between engineering and other practices, and maintaining the [ReactUSWDS open source library](https://github.com/trussworks/react-uswds). Suzanne is passionate about implementing delightful user interfaces, making technology accessible to people of all backgrounds, and sharing her knowledge with anyone who is as eager to learn as she is.
 
+###### Jacob
+
+&nbsp;&nbsp;&nbsp;&nbsp;Jacob is a software engineer based out of Alabama. After receiving his degree from the University of Alabama at Birmingham, majoring in Computer Science and minoring in Mathematics, he began his career as a front end developer for an insurance company based out of Birmingham, AL. After a couple of years of building everything from A/B tests to data pipelines, he began working as a freelance consultant. As a consultant, he has worked with various companies on projects ranging from basic website builds to real-time stock trading platforms. When he isn't behind his computer, you can find him hiking trails across North Alabama, or shopping at the local record store.
+
 ---
 
 #### Alumni
@@ -56,7 +60,7 @@
 
 ###### Kat (ORBIT)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Kat is a design operations aficionado who arrived at USSF from the United States Digital Service and decided to stay for a while, mostly because of Noah. Kat believes in well executed service design, always taking a human centered approach, working with great people and defining hard problems before you try to solve them. 
+&nbsp;&nbsp;&nbsp;&nbsp;Kat is a design operations aficionado who arrived at USSF from the United States Digital Service and decided to stay for a while, mostly because of Noah. Kat believes in well executed service design, always taking a human centered approach, working with great people and defining hard problems before you try to solve them.
 
 ###### Mallory (Truss)
 
