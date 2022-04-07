@@ -35,7 +35,8 @@ ____________________________________________________
 
 | Task | Description | Status |
 | ------ | ------ | :------: |
-| Deploy analytics platform to production | The remaining piece of getting the analytics platform on to the production environment so we can begin collecting data | | :thinking: ON HOLD |
+| Deploy analytics platform to production | The remaining piece of getting the analytics platform on to the production environment so we can begin collecting data | :hand: ON HOLD |
+| Task | Description | :hand: ON HOLD |
 
 ## June & July
 
