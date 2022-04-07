@@ -15,7 +15,7 @@ ____________________________________________________
 | Auth and user roles | Use existing login methods and create the necessary CMS roles | :white_check_mark: DONE |
 | Migrate embedded content | Migrate the content stored in the embedded version to the hosted version | :construction: TODO |
 | Fetch and display content | Query multiple endpoints to replace embedded CMS content | :construction: TODO |
-| Infra tasks | Tasks required to configure and deploy a standalone CMS to production | :construction: IN PROGRESS |
+| Infra tasks | Tasks required to configure and deploy a standalone CMS to production | :memo: IN PROGRESS |
 
 ### CMS Admin Workflow
 
