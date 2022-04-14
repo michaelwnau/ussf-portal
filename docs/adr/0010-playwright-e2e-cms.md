@@ -1,8 +1,8 @@
 # Use Playwright to end-to-end test the CMS
 
 - Status: Proposed
-- Deciders: @suzubara @abbyoung @esacteksab @jacob
-- Date: 2022-04-13
+- Deciders: @suzubara @abbyoung @esacteksab @jcbcapps
+- Date: 2022-04-14
 
 ## Context and Problem Statement
 
