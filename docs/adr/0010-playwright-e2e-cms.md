@@ -1,6 +1,6 @@
 # Use Playwright to end-to-end test the CMS
 
-- Status: Proposed
+- Status: Accepted
 - Deciders: @suzubara @abbyoung @esacteksab @jcbcapps
 - Date: 2022-04-14
 
