@@ -25,6 +25,7 @@ Both the portal client & CMS have been set up with the following tools & workflo
 
 - Whenever a branch is merged to `main`, the application is automatically deployed to our AWS dev environment.
 - Ensure any changes, especially database migrations & any architectural or infrastructure changes, have been thoroughly tested on AWS dev.
+- It's also a great idea to test the application that wasn't updated against the one that was. For example, if a new change is merged & deployed on the CMS, also login to the portal client on AWS dev and verify that nothing broke (and vice versa).
 
 ### Release on Github
 
