@@ -10,6 +10,7 @@
 
 - [How To Update Github Actions](./how-to/updating-github-actions.md)
 - [How to Release](./how-to/releasing.md)
+- [How to manage JS dependencies](./how-to/dependencies.md)
 
 ## Architectural Decision Records
 
