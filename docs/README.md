@@ -26,3 +26,4 @@ When creating a new ADR, you can copy the [template](./adr/0000-template.md).
 8. [Authentication Strategy & Architecture](./adr/0008-auth-architecture.md)
 9. [Authentication & authorization strategy across platforms](./adr/0009-platform-auth-architecture.md)
 10. [Use Playwright to end-to-end test the CMS](./adr/0010-playwright-e2e-cms.md)
+11. [Separate Repo for end-to-end tests](./adr/0011-separate-repo-for-e2e-tests.md)
