@@ -7,15 +7,20 @@ import {
 } from '@playwright-testing-library/test/fixture'
 import { authorUser, managerUser } from '../cms/database/users'
 import { LoginPage } from '../models/Login'
+import { KeystoneListPage } from '../models/KeystoneList'
 
 type CustomFixtures = {
   loginPage: LoginPage
+  keystoneListPage: KeystoneListPage
 }
 
 const test = base.extend<TestingLibraryFixtures & CustomFixtures>({
   ...fixtures,
   loginPage: async ({ page, context }, use) => {
     await use(new LoginPage(page, context))
+  },
+  keystoneListPage: async ({ page, context }, use) => {
+    await use(new KeystoneListPage(page, context))
   },
 })
 
@@ -30,7 +35,9 @@ test.beforeAll(async () => {
 test('hero image is displayed by on internal news carousel', async ({
   page,
   loginPage,
+  keystoneListPage,
 }) => {
+  test.slow()
   /* Log in as a CMS author */
   await loginPage.login(authorUser.username, authorUser.password)
 
@@ -79,10 +86,7 @@ test('hero image is displayed by on internal news carousel', async ({
   ).toBeVisible()
 
   /* Navigate back to Articles page and confirm article was created as a draft */
-
-  await page.locator('[aria-label="Side Navigation"] >> text=Articles').click()
-  await expect(page).toHaveURL('http://localhost:3001/articles')
-
+  await keystoneListPage.gotoAndSortBy('articles')
   await expect(
     page.locator(`tr:has-text("${title}") td:nth-child(3)`)
   ).toHaveText('Draft')
@@ -117,7 +121,9 @@ test('hero image is displayed by on internal news carousel', async ({
   /* View article on the portal and confirm hero is present */
   await page.goto('http://localhost:3000/news-announcements')
 
-  const carouselCard = page.locator(`div:has-text("${title}") > .grid-row >> nth=0`)
+  const carouselCard = page.locator(
+    `div:has-text("${title}") > .grid-row >> nth=0`
+  )
 
   await expect(carouselCard).toBeVisible()
 
@@ -132,10 +138,14 @@ test('hero image is displayed by on internal news carousel', async ({
     carouselCard.locator('text=View Article').click(),
   ])
 
-  await expect(article.locator(`article >> h2:has-text("${title}")`)).toBeVisible()
+  await expect(
+    article.locator(`article >> h2:has-text("${title}")`)
+  ).toBeVisible()
 
   /* Verify that the hero image is displayed when viewing the article */
-  await expect(article.locator('article >> img[alt="article hero graphic"]')).toBeVisible()
+  await expect(
+    article.locator('article >> img[alt="article hero graphic"]')
+  ).toBeVisible()
 
   /* Return to CMS and log out */
   await page.goto('http://localhost:3001')
