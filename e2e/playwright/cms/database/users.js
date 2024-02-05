@@ -1,7 +1,11 @@
+import { testUser1, testUser2 } from '../../portal-client/database/users'
+// testUser1 -> portalUser1
+// testUser2 -> portalUser2
+
 // These users need to exist in the test IDP users.php file
 export const defaultUser = {
   id: 'cl0jyfow10002fs97yimqq04c',
-  userId: 'JOHN.HENKE.562270783@testusers.cce.af.mil',
+  userId: 'HENKE.JOHN.562270783',
   name: 'JOHN HENKE',
   isAdmin: false,
   isEnabled: true,
@@ -12,7 +16,7 @@ export const defaultUser = {
 
 export const adminUser = {
   id: 'cl0jylky79105fs97hvb6sc7x',
-  userId: 'FLOYD.KING.376144527@testusers.cce.af.mil',
+  userId: 'KING.FLOYD.376144527',
   name: 'FLOYD KING',
   isAdmin: true,
   isEnabled: true,
@@ -23,7 +27,7 @@ export const adminUser = {
 
 export const authorUser = {
   id: 'cl31ovlaw0013mpa8sc8t88pp',
-  userId: 'ETHEL.NEAL.643097412@testusers.cce.af.mil',
+  userId: 'NEAL.ETHEL.643097412',
   name: 'ETHEL NEAL',
   isAdmin: false,
   isEnabled: true,
@@ -34,7 +38,7 @@ export const authorUser = {
 
 export const managerUser = {
   id: 'cl396pfxe0013moyty5r5r3z9',
-  userId: 'CHRISTINA.HAVEN.561698119@testusers.cce.af.mil',
+  userId: 'HAVEN.CHRISTINA.561698119',
   name: 'CHRISTINA HAVEN',
   isAdmin: false,
   isEnabled: true,
@@ -45,8 +49,9 @@ export const managerUser = {
 
 export const portalUser1 = {
   id: 'clc053a1bc3f3f5738ae5329',
-  userId: 'BERNADETTE.CAMPBELL.5244446289@testusers.cce.af.mil',
+  userId: 'CAMPBELL.BERNADETTE.5244446289',
   name: 'BERNADETTE CAMPBELL',
+  displayName: testUser1.displayName,
   isAdmin: false,
   isEnabled: true,
   role: 'User',
@@ -56,8 +61,9 @@ export const portalUser1 = {
 
 export const portalUser2 = {
   id: 'cl492pfxe0013moytyf93ls0f',
-  userId: 'RONALD.BOYD.312969168@testusers.cce.af.mil',
+  userId: 'BOYD.RONALD.312969168',
   name: 'RONALD BOYD',
+  displayName: testUser2.displayName,
   isAdmin: false,
   isEnabled: true,
   role: 'User',

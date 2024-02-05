@@ -116,8 +116,10 @@ jobs:
           path: /tmp/personnel-api
           key: ${{ runner.os }}-docker-personnel-api-
           restore-keys: ${{ runner.os }}-docker-personnel-api-
-
+            
       - name: Docker compose
+        env:
+          JWT_DEV_CERT: ${{ secrets.JWT_DEV_CERT }}
         run: |
           docker image prune --all --force
           docker compose up -d

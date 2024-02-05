@@ -23,7 +23,9 @@ test('can view the guardian directory', async ({ page, loginPage }) => {
   // Log in as CMS admin
   await loginPage.login(portalUser1.username, portalUser1.password)
 
-  await expect(page.locator('text=WELCOME, BERNIE')).toBeVisible()
+  await expect(
+    page.locator(`text=WELCOME, ${portalUser1.displayName}`)
+  ).toBeVisible()
   await page.locator('text=Guardian Directory').click()
   await expect(
     page.getByRole('heading', { name: 'Guardian Directory' })
@@ -113,7 +115,9 @@ test('can search the guardian directory', async ({ page, loginPage }) => {
   // Log in as CMS admin
   await loginPage.login(portalUser1.username, portalUser1.password)
 
-  await expect(page.locator('text=WELCOME, BERNIE')).toBeVisible()
+  await expect(
+    page.locator(`text=WELCOME, ${portalUser1.displayName}`)
+  ).toBeVisible()
   await page.locator('text=Guardian Directory').click()
   await expect(
     page.getByRole('heading', { name: 'Guardian Directory' })
@@ -160,9 +164,13 @@ test('can search the guardian directory', async ({ page, loginPage }) => {
   await page.getByTestId('textInput').click()
   await page.getByTestId('textInput').fill('noresults')
   await page.getByTestId('form').getByTestId('button').click()
- 
+
   // We should NOT have any results
-  await expect(page.getByRole('heading', { name: 'There are no results that match that query.' })).toBeVisible()
+  await expect(
+    page.getByRole('heading', {
+      name: 'There are no results that match that query.',
+    })
+  ).toBeVisible()
   // Same as above, counting the rows does not work here, so checking
   // that all rows are hidden manually
   await expect(page.getByTestId('0_FirstName')).toBeHidden()

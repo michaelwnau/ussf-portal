@@ -25,7 +25,9 @@ describe('Event logging', () => {
   }) => {
     await loginPage.login(defaultUser.username, defaultUser.password)
 
-    await expect(page.locator('text=WELCOME, JOHN HENKE')).toBeVisible()
+    await expect(
+      page.locator(`text=WELCOME, ${defaultUser.name}`)
+    ).toBeVisible()
     await page.goto('/')
 
     await Promise.all([
@@ -37,9 +39,7 @@ describe('Event logging', () => {
 
     await Promise.all([
       page.waitForNavigation(),
-      page
-        .locator('a:has-text("JOHN.HENKE.562270783@testusers.cce.af.mil")')
-        .click(),
+      page.locator(`a:has-text("${defaultUser.userId}")`).click(),
     ])
 
     await page.fill('#name', 'Johnathan Henke')
@@ -47,14 +47,14 @@ describe('Event logging', () => {
 
     await expect(
       page.locator(
-        'legend:has-text("Updated By") + div:has-text("JOHN.HENKE.562270783@testusers.cce.af.mil")'
+        `legend:has-text("Updated By") + div:has-text("${defaultUser.userId}")`
       )
     ).toBeVisible()
 
     await loginPage.logout()
 
     await loginPage.login(adminUser.username, adminUser.password)
-    await expect(page.locator('text=WELCOME, FLOYD KING')).toBeVisible()
+    await expect(page.locator(`text=WELCOME, ${adminUser.name}`)).toBeVisible()
     await page.goto('http://localhost:3001')
     await Promise.all([
       page.waitForNavigation(),
@@ -77,7 +77,7 @@ describe('Event logging', () => {
 
     await expect(
       page.locator(
-        'legend:has-text("Actor") + div:has-text("JOHN.HENKE.562270783@testusers.cce.af.mil")'
+        `legend:has-text("Actor") + div:has-text("${defaultUser.userId}")`
       )
     ).toBeVisible()
   })
