@@ -13,6 +13,11 @@
 
 ## Environment Setup
 
+For a high-level look of how the system is architected, review the following diagrams. Note: You will need to be a member of the GitHub organization to have access.
+
+* [SAML Auth Flow](https://github.com/USSF-ORBIT/spacecadets-dev/blob/d728708977d694428ee0d25598efbba706caaf2d/docs/diagrams/app-engineering/auth_flow.png) 🔒
+* [App Architecture](https://github.com/USSF-ORBIT/spacecadets-dev/blob/d728708977d694428ee0d25598efbba706caaf2d/docs/diagrams/app-engineering/app_architecture.png) 🔒
+
 ### Pre-requisites
 
 1. **Set up [direnv](https://direnv.net/docs/hook.html)**
