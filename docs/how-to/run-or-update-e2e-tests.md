@@ -37,6 +37,10 @@ You will need everything running before running any of the tests. This repo has 
 
 `yarn services:up -d`
 
+Once you have the services running on your local machine, you can run the e2e tests with
+
+`yarn e2e:test`
+
 ### Run E2E tests in github actions manually
 
 Once the services are up, it still may take a minute before you are ready to run tests because sometimes the keystone database takes a bit to start up. To account for this in our GitHub Actions, we use a tool called [wait-on](https://github.com/jeffbski/wait-on), which allows us to wait for a 200 OK from the servers before executing our tests. If you would like to replicate this behavior when running tests locally, you can run the following after running `yarn services:up`:
